@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html>
-<body>
+welcome
+<br />
 
-<h1>My first PHP page</h1>
-
+<pre>
 <?php
-echo "Hello World!";
-?>
 
-</body>
-</html>
+print 'ifconfig' ;
+
+?>
+</pre>
