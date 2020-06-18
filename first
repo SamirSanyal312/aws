@@ -1,7 +1,7 @@
-<body bgcolor="aqua">
+<body bgcolor="red">
 <center>
-<h1>My Profile</h1>
-<h2>MLOps, DevOpsAL & Hybrid Multi-Cloud Intern at LinuxWorld India| Former Data Science Intern at GSC Infotech| Student Developer & Lead Teaching Assistant at Crio.do| Freelance Project Devloper| Founder at Trainings&Internships</h2><br>
-<img src="http://rg-static-data-bucket.s3.ap-south-1.amazonaws.com/rg.jpg" height=500 />
+<h1>Food Detection</h1>
+<h2>I have created a food detctor using imageai</h2><br>
+<img src="http://rg-static-data-bucket.s3.ap-south-1.amazonaws.com/image.jpg" height=500 />
 </center>
 </body>
